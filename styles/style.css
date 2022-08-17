@@ -1,0 +1,13 @@
+*  {
+     padding: 0; /*Resetting inner padding*/
+     margin: 0; /*Resetting outer padding*/
+}
+
+body{
+    height: 10vh; /*100 percent of the active Viewport geometry height*/
+    background: #FFB3B3;
+}
+
+.pageContainer {
+    background: aquamarine;
+}
